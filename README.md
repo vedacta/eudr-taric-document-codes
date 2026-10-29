@@ -1,5 +1,7 @@
 # EUDR TARIC document codes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23778093.svg)](https://doi.org/10.5281/zenodo.23778093)
+
 The 15 document codes that go on an EU customs declaration for goods under the EU Deforestation Regulation (EUDR, Regulation (EU) 2023/1115): C716, C717, C718, C720, C725 and the Y codes for exemptions.
 
 Files:
