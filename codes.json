@@ -1,0 +1,24 @@
+{
+  "source": "European Commission, DG TAXUD: TARIC data created for Regulation (EU) 2023/1115 (Ares(2024)6896255), Revision 1 of 23 September 2026",
+  "source_url": "https://circabc.europa.eu/ui/group/0e5f18c2-4b2f-42e9-aed4-dfe50ae1263b/library/17035dd6-15c9-41bb-8bcb-68d2c8169b21/details",
+  "checked": "2026-10-19",
+  "explained_at": "https://eurules.vedacta.com/eudr/taric-document-codes",
+  "note": "Descriptions are Vedacta's plain-language summaries, not the official wording. On the day you declare, the measure in the EU's TARIC consultation for your goods code is what counts.",
+  "codes": [
+    {"code": "C716", "meaning": "Due diligence statement: its reference number is declared", "import": "yes", "export": "yes"},
+    {"code": "C717", "meaning": "Declaration identifier of the one-time simplified declaration of a micro or small primary operator (Article 4a)", "import": "yes", "export": "yes"},
+    {"code": "C718", "meaning": "Product placed on the EU market between 30 June 2023 and the date of application, now exported or re-imported", "import": "re-import", "export": "yes"},
+    {"code": "C720", "meaning": "Downstream operator that is not an SME (registered in the Information System) re-importing: the upstream reference number", "import": "re-import only", "export": "no"},
+    {"code": "C725", "meaning": "Downstream operator that is an SME (not registered) re-importing: the upstream reference number", "import": "re-import only", "export": "no"},
+    {"code": "Y129", "meaning": "The code is an \"ex\" code in Annex I and these goods are not the ones covered", "import": "yes", "export": "yes"},
+    {"code": "Y132", "meaning": "Products produced before 29 June 2023 (Article 1(2))", "import": "yes", "export": "yes"},
+    {"code": "Y133", "meaning": "Used and second-hand products, waste, recovered (waste and scrap) products and products made from them, and goods made entirely from material that has completed its lifecycle", "import": "yes", "export": "yes"},
+    {"code": "Y141", "meaning": "Natural persons and micro or small undertakings established as such by 31 December 2024 (Article 38(3)); declarable only until 29 June 2027", "import": "yes", "export": "yes"},
+    {"code": "Y142", "meaning": "Non-commercial consumer-to-consumer consignment", "import": "yes", "export": "yes"},
+    {"code": "Y187", "meaning": "Samples of negligible value and quantity, and products for examination, analysis or tests", "import": "yes", "export": "yes"},
+    {"code": "Y190", "meaning": "Packing material and containers presented with the product they carry, where Annex I says so", "import": "yes", "export": "yes"},
+    {"code": "Y191", "meaning": "Products used to make medicinal products, and correspondence or marketing material accompanying a product, where Annex I says so", "import": "yes", "export": "yes"},
+    {"code": "Y188", "meaning": "Downstream operator that is an SME (not registered in the Information System) exporting", "import": "no", "export": "export only"},
+    {"code": "Y196", "meaning": "Downstream operator that is not an SME (registered in the Information System) exporting", "import": "no", "export": "export only"}
+  ]
+}

@@ -1,0 +1,16 @@
+code,meaning,import,export
+C716,Due diligence statement: its reference number is declared,yes,yes
+C717,Declaration identifier of the one-time simplified declaration of a micro or small primary operator (Article 4a),yes,yes
+C718,"Product placed on the EU market between 30 June 2023 and the date of application, now exported or re-imported",re-import,yes
+C720,Downstream operator that is not an SME (registered in the Information System) re-importing: the upstream reference number,re-import only,no
+C725,Downstream operator that is an SME (not registered) re-importing: the upstream reference number,re-import only,no
+Y129,"The code is an ""ex"" code in Annex I and these goods are not the ones covered",yes,yes
+Y132,Products produced before 29 June 2023 (Article 1(2)),yes,yes
+Y133,"Used and second-hand products, waste, recovered (waste and scrap) products and products made from them, and goods made entirely from material that has completed its lifecycle",yes,yes
+Y141,Natural persons and micro or small undertakings established as such by 31 December 2024 (Article 38(3)); declarable only until 29 June 2027,yes,yes
+Y142,Non-commercial consumer-to-consumer consignment,yes,yes
+Y187,"Samples of negligible value and quantity, and products for examination, analysis or tests",yes,yes
+Y190,"Packing material and containers presented with the product they carry, where Annex I says so",yes,yes
+Y191,"Products used to make medicinal products, and correspondence or marketing material accompanying a product, where Annex I says so",yes,yes
+Y188,Downstream operator that is an SME (not registered in the Information System) exporting,no,export only
+Y196,Downstream operator that is not an SME (registered in the Information System) exporting,no,export only
